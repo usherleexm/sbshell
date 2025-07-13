@@ -46,6 +46,12 @@
     "tag": "tproxy-in",
     "listen": "0.0.0.0",
     "listen_port": 7895
+  },
+ {
+    "type": "mixed",
+    "tag": "mixed-in",
+    "listen": "0.0.0.0",
+    "listen_port": 2080
   }
 ],
 
